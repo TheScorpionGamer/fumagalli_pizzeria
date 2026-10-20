@@ -3,7 +3,9 @@ body{
 }
 .navigation-bar{
     background-color: gray;
-    border-collapse: ;
+}
+.navigation-bar a:hover{
+
 }
 .img_pizza_index{
     max-width: 25%;
