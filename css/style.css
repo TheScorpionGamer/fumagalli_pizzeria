@@ -1,0 +1,26 @@
+body{
+    background-color: bisque;
+}
+.navigation-bar{
+    background-color: gray;
+    border-collapse: ;
+}
+.img_pizza_index{
+    max-width: 25%;
+    max-height: 25%;
+}
+.prenota{
+    background-color: lightgrey;
+    text-align: center;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10%;
+}
+.prenota button{
+    border-radius: 5%;
+    background-color: green;
+}
+footer{
+    text-align: center;
+}
